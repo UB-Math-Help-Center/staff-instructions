@@ -4,13 +4,11 @@
 
 2. Click on the post "Welcome to UB Math Help Center!" which is pinned to the top of the list of posts. Check the links to zoom meetings at the top of this post. If you see a link to a meeting which is about to end, try to join this meeting. If this works, talk to the host of the meeting and ask him or her to make you the new host, so you can continue the meeting. If you cannot join such meeting, create your own new zoom meeting.
 
-3. Edit the "Welcome to UB Math Help Center!" post to enter information about your zoom  meeting. If you took over an existing meeting as a host, the link to the meeting will stay the same, just insert your name and your Help Center hours. If you created a new zoom meeting, you need to enter the link to the meeting as well. The format of this information should be as follows:
+3. Edit the "Welcome to UB Math Help Center!" post to enter information about your   zoom  meeting. If you took over an existing meeting as a host, the link to the meeting will stay the same, just insert your name and your Help Center hours. If you created a new zoom meeting, you need to enter the link to the meeting as well. The format of this information should be as follows:    
+> Zoom meeting with John Smith 11:00 AM-12:00 PM:  
+> https://buffalo.zoom/my/smith12343?pwd=V0tzVEw2c0Z6elBmOXNUUVprOEt
 
-    ```
-    Zoom meeting with John Smith 11:00 AM-12:00 PM:
-    https://buffalo.zoom/my/smith12343?pwd=V0tzVEw2c0Z6elBmOXNUUVprOEt
-    ```
-    Make sure not to delete the information about the other  zoom meeting and the image with instructions for students.
+  Make sure not to delete the information about the other  zoom meeting and the image with instructions for students.
 
 4. Students seeking help will post their questions on the Math Help Center Piazza. Questions which has been already answered should have a green label "An instructor thinks this is a good note/question". Look for the earliest post for the given day which does not have this label (the newest posts are at the top of the list, so scroll down). Check the author of the post, and ask in the zoom meeting if the student is present (you can also check if his/her name is on the list of meeting participants). When two zoom meetings are run in parallel, the student can be in the other meeting. If the student is not in your meeting, move on to the next unlabeled (i.e. unanswered) question posted on Piazza. When you get to a student who is present, click on the "good note" button on his/her post on Piazza to indicate that the student is getting help.
 
@@ -21,7 +19,7 @@ End the meeting and remove your name and the meeting link from the "Welcome to U
 
 
 
-**Note.**
+## Notes.
 *  Do not delete any Piazza posts. However, you can archive them - this will keep them on Piazza,  but hide them from your own view.
 *  Please check periodically that the link to your zoom meeting is posted on Piazza - especially if you don't see new students joining your meeting.
 * If the Piazza post with instructions for students gets accidentally deleted or mangled, you can recreate it as follows.
