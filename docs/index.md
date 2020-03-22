@@ -48,3 +48,6 @@ End the meeting and remove your name and the meeting link from the "Welcome to U
      #pin
  ```
  * Edit names, hours and zoom meeting links and submit the post to Piazza.
+   The post should look as follows:
+
+   ![Welcome](images/welcome.png)
