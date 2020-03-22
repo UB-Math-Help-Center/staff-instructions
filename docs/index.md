@@ -30,6 +30,7 @@ If the Piazza post with instructions for students gets accidentally deleted or m
 
  * Make a new post on Piazza. As the post summary enter "Welcome to the UB Math Help Center!".
  * Switch Piazza editing to plain text editor, then copy and paste the following text:
+
  ```
  <md>
 Zoom meeting with John Teacher 11:00 AM-12:00 PM:
@@ -47,6 +48,5 @@ https://buffalo.zoom.us/my/zoom_link_2_here
 
 <img src="/redirect/s3?bucket=uploads&amp;prefix=attach%2Fk7t6rcv8big558%2Fhrikkkq1l21wq%2Fk833t94jjmq6%2Fhelp_center_instructions.png" alt="">
  #pin
-
  ```
  * Edit names, hours and zoom meeting links and submit the post to Piazza.
