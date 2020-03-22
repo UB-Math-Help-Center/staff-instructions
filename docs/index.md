@@ -1,6 +1,6 @@
 # Instructions for the Staff of the Math Help Center
 
-1. Log in to the Math Help Center Piazza forum at https://piazza.com/buffalo/spring2020/mthhelp/home
+1. Log in to the Math Help Center Piazza forum at [https://piazza.com/buffalo/spring2020/mthhelp/home](https://piazza.com/buffalo/spring2020/mthhelp/home)
 
 2. Click on the post "Welcome to UB Math Help Center!" which is pinned to the top of the list of posts. Check the links to zoom meetings at the top of this post. If you see a link to a meeting which is about to end, try to join this meeting. If this works, talk to the host of the meeting and ask him or her to make you the new host, so you can continue the meeting. If you cannot join such meeting, create your own new zoom meeting.
 
@@ -24,29 +24,27 @@ End the meeting and remove your name and the meeting link from the "Welcome to U
 **Note.**
 *  Do not delete any Piazza posts. However, you can archive them - this will keep them on Piazza,  but hide them from your own view.
 *  Please check periodically that the link to your zoom meeting is posted on Piazza - especially if you don't see new students joining your meeting.
+* If the Piazza post with instructions for students gets accidentally deleted or mangled, you can recreate it as follows.
 
+  - Make a new post on Piazza. As the post summary enter "Welcome to the UB Math Help Center!".
+  - Switch Piazza editing to plain text editor, then copy and paste the following text:
 
-If the Piazza post with instructions for students gets accidentally deleted or mangled, you can recreate it as follows.
+     ```
+     <md>
+    Zoom meeting with John Teacher 11:00 AM-12:00 PM:
+    =====
+    https://buffalo.zoom.us/my/zoom_link_1_here
+    =====
+    -------</md>
 
- * Make a new post on Piazza. As the post summary enter "Welcome to the UB Math Help Center!".
- * Switch Piazza editing to plain text editor, then copy and paste the following text:
+    <md>
+    Zoom meeting with Jane Teacher 11:00 AM-12:00 PM:
+    =====
+    https://buffalo.zoom.us/my/zoom_link_2_here
+    =====
+    -------</md>
 
- ```
- <md>
-Zoom meeting with John Teacher 11:00 AM-12:00 PM:
-=====
-https://buffalo.zoom.us/my/zoom_link_1_here
-=====
--------</md>
-
-<md>
-Zoom meeting with Jane Teacher 11:00 AM-12:00 PM:
-=====
-https://buffalo.zoom.us/my/zoom_link_2_here
-=====
--------</md>
-
-<img src="/redirect/s3?bucket=uploads&amp;prefix=attach%2Fk7t6rcv8big558%2Fhrikkkq1l21wq%2Fk833t94jjmq6%2Fhelp_center_instructions.png" alt="">
- #pin
+    <img src="/redirect/s3?bucket=uploads&amp;prefix=attach%2Fk7t6rcv8big558%2Fhrikkkq1l21wq%2Fk833t94jjmq6%2Fhelp_center_instructions.png" alt="">
+     #pin
  ```
  * Edit names, hours and zoom meeting links and submit the post to Piazza.
