@@ -47,7 +47,7 @@ End the meeting and remove your name and the meeting link from the "Welcome to U
     <img src="/redirect/s3?bucket=uploads&amp;prefix=attach%2Fk7t6rcv8big558%2Fhrikkkq1l21wq%2Fk833t94jjmq6%2Fhelp_center_instructions.png" alt="">
     #pin
 ```
- * Edit names, hours and zoom meeting links and submit the post to Piazza.
+ - Edit names, hours and zoom meeting links and submit the post to Piazza.
    The post should look as follows:
 
    ![Welcome](images/welcome.png)
