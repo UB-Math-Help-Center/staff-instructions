@@ -10,8 +10,8 @@
 3. Edit the "Welcome to UB Math Help Center!" post to enter information about your zoom  meeting. If you took over an existing meeting as a host, the link to the meeting will stay the same, just insert your name and your Help Center hours. If you created a new zoom meeting, you need to enter the link to the meeting as well. The format of this information should be as follows:
 
     ```
-    Zoom meeting with John Smith 11:00 AM-12:00 PM:
-    https://buffalo.zoom/my/smith12343?pwd=V0tzVEw2c0Z6elBmOXNUUVprOEt
+    Zoom meeting with John 11:00 AM-12:00 PM:
+    https://buffalo.zoom/my/zoom_link_goes_here
     ```
     Make sure not to delete the information about the other  zoom meeting and the image with instructions for students.
 
