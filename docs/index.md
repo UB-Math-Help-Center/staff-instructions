@@ -1,6 +1,9 @@
 # Instructions for the Staff of the Math Help Center
 
-1. Log in to the Math Help Center Piazza forum at [https://piazza.com/buffalo/spring2020/mthhelp](https://piazza.com/buffalo/spring2020/mthhelp)
+>**Note.** If you have not done so already change your email settings on Math Help Center Piazza - otherwise you will get an email for every new Piazza post. To change settings, go to the Help Center Piazza and click on a small gear wheel icon in the upper right corner of the web page. In the menu which will appear choose Account/Email Settings. Change the settings for MTH HELP to no emails.
+
+
+1. At the start of your shift, log in to the Math Help Center Piazza forum at [https://piazza.com/buffalo/spring2020/mthhelp](https://piazza.com/buffalo/spring2020/mthhelp).
 
 2. Click on the post "Welcome to UB Math Help Center!" which is pinned to the top of the list of posts. Check the links to zoom meetings at the top of this post. If you see a link to a meeting which is about to end, try to join this meeting. If this works, talk to the host of the meeting and ask him or her to make you the new host, so you can continue the meeting. If you cannot join such meeting, create your own new zoom meeting.
 
