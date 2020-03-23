@@ -34,23 +34,23 @@ End the meeting and remove your name and the meeting link from the "Welcome to U
 
     ```
     <md>
-    Zoom meeting with John Teacher 11:00 AM-12:00 PM:
+    Zoom meeting with Jane 10:00 AM-11:00 AM:
     =====
     https://buffalo.zoom.us/my/zoom_link_1_here
     =====
     -------</md>
 
     <md>
-    Zoom meeting with Jane Teacher 11:00 AM-12:00 PM:
+    Zoom meeting with John 10:00 AM-11:00 AM:
     =====
     https://buffalo.zoom.us/my/zoom_link_2_here
     =====
     -------</md>
 
-    <img src="/redirect/s3?bucket=uploads&amp;prefix=attach%2Fk7t6rcv8big558%2Fhrikkkq1l21wq%2Fk833t94jjmq6%2Fhelp_center_instructions.png" alt="">
-    #pin
-```
- - Edit names, hours and zoom meeting links and submit the post to Piazza.
-   The post should look as follows:
+    <img src="/redirect/s3?bucket=uploads&amp;prefix=attach%2Fk7t6rcv8big558%2Fhrikkkq1l21wq%2Fk84l1erwdyvi%2Fhelp_center_instructions.png" alt="">
+
+     #pin
+    ```
+  - Edit names, hours and zoom meeting links and submit the post to Piazza. The post should look as follows:
 
    ![Welcome](images/welcome.png)
