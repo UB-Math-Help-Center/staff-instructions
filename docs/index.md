@@ -47,7 +47,7 @@ End the meeting and remove your name and the meeting link from the "Welcome to U
     =====
     -------</md>
     
-    <img src="/redirect/s3?bucket=uploads&amp;prefix=attach%2Fk7t6rcv8big558%2Fhrikkkq1l21wq%2Fk84t11g0r5ld%2Fhelp_center_instructions.png" alt="">
+    <img src="/redirect/s3?bucket=uploads&amp;prefix=attach%2Fk7t6rcv8big558%2Fhrikkkq1l21wq%2Fk84tcjad11by%2Fhelp_center_instructions.png" alt="">
 
      #pin
     ```
