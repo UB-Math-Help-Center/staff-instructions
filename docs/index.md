@@ -34,22 +34,31 @@ End the meeting and remove your name and the meeting link from the "Welcome to U
 
     ```
     <md>
-    Zoom meeting with Jane 10:00 AM-11:00 AM:
+    Zoom meeting with Foo X:00 AM-Y:00 AM:
     =====
     https://buffalo.zoom.us/my/zoom_link_1_here
     =====
     -------</md>
 
+
+
+    <img src="http://blue.math.buffalo.edu/math_help_center.png" alt="" /><br />
+
     <md>
-    Zoom meeting with John 10:00 AM-11:00 AM:
+    Full week staff schedule:
     =====
-    https://buffalo.zoom.us/my/zoom_link_2_here
+    http://blue.math.buffalo.edu/poster.pdf
     =====
     -------</md>
 
-    <img src="/redirect/s3?bucket=uploads&amp;prefix=attach%2Fk7t6rcv8big558%2Fhrikkkq1l21wq%2Fk85b3cgdgi7w%2Fhelp_center_instructions.png" alt="">
+    <md>
+    Staff instructions:
+    =====
+    https://tinyurl.com/math-help-center
+    =====
+    -------</md>
 
-     #pin
+    #pin
     ```
   - Edit names, hours and zoom meeting links and submit the post to Piazza. The post should look as follows:
 
